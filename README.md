@@ -17,6 +17,15 @@ We recommend Anaconda as the environment
 * visdom
 
 ## Training
+1. Modify data path in src/main.py <br/>
+datapath/img/\*\*\*<br/>
+datapath/anno/\*\*\*
+2. Select different dataloader.py according to different dataset
+3. Begining training:
+```
+$ cd ./src/
+$ python main.py 
+```
 
 ## Test
 
