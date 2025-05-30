@@ -14,7 +14,7 @@ We recommend Anaconda as the environment
 * opencv-python
 * visdom
 
-  ## Training
+## Training
 
 ## Test
 
