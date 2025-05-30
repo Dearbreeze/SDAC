@@ -1,6 +1,8 @@
 # SDAC
 ##  You Need Glimpse Before Segmentation: Stochastic Detector-Actor-Critic for Medical Image Segmentation
 
+The code will be released soon!
+
 ## Requirements
 
 We recommend Anaconda as the environment
