@@ -5,7 +5,7 @@ from tqdm import tqdm
 import State as State
 from pixelwise_a3c import *
 from Glimpse import *
-# from SDAC_Network import *
+from SDAC_Network import *
 import matplotlib.pyplot as plt
 import torch.optim as optim
 from Dataloader_Hecktor_npy import *
