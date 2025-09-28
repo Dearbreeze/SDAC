@@ -8,8 +8,8 @@ from Glimpse import *
 from SDAC_Network import *
 import matplotlib.pyplot as plt
 import torch.optim as optim
-from Dataloader_Hecktor_npy import *
-# from Dataloader_Brain import *
+# from Dataloader_Hecktor_npy import *
+from Dataloader_Brain import *
 import argparse
 import Visualizer
 import Mean_vail,Sum_vail
